@@ -1,0 +1,1 @@
+[{"name": "No morning", "days": [1, 2, 3, 4, 5, 6], "hours": [1, 2, 3]}, {"name": "No afterlunch", "days": [1, 2, 3, 4, 5, 6], "hours": [4, 5, 6]}, {"name": "No weekstart", "days": [1, 2, 3], "hours": [1, 2, 3, 4, 5, 6]}, {"name": "No weekend", "days": [4, 5, 6], "hours": [1, 2, 3, 4, 5, 6]}, {"name": "Longweekend", "days": [1, 5, 6], "hours": [1, 2, 3, 4, 5, 6]}]
